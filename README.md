@@ -1,7 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CallieHsu/Fine-tune-LLM-Google-Colab/blob/master/fine_tune_tinyllama_by_colab_docker.ipynb)
 # Fine-tuning LLMs on Google Colab
 ### 🤗 Pretrained model
-- Large Language Model (LLM): [TinyLlama/TinyLlama-1.1B-Chat-v0.6](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v0.6)
+- Large Language Model (LLM): [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
 
 ### 🚀 Fine-tuning techniques
 - **Supervised Fine-Tuning** (**SFT**): Models are trained on a dataset of instructions and responses. It adjusts the weights in the LLM to minimize the difference between the generated answers and ground-truth responses, acting as labels.
