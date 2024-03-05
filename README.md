@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CallieHsu/Fine-tune-LLM-Google-Colab/blob/master/fine_tune_tinyllama_by_colab_docker.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CallieHsu/Fine-tune-LLM-Google-Colab/blob/master/fine_tune_tinyllama_on_google_colab.ipynb)
 # Fine-tuning LLMs on Google Colab
 ### 🤗 Pretrained model
 - Large Language Model (LLM): [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
